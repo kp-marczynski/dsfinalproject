@@ -4,3 +4,6 @@ This day, we embark upon a journey to foretell the destinies of those who dabble
 </p>
 
 This is where our data science final project goes. Maybe we'll stick a description here later.
+
+## Prerequisites
+* Python 3.8
